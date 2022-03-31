@@ -1,0 +1,92 @@
+body{
+  
+  background-image: url('https://wallpaperaccess.com/full/379720.jpg');
+background-size: 1920px 1080px;
+}
+.cont{
+      background-image: url('https://www.color-hex.com/palettes/2639.png');
+background-size: 1140px 720px;
+    opacity: 1;
+    background-color: #e6f5ff;
+    padding-top: 40px;
+    text-align: justify;
+    font-size: 1em;
+}
+
+.fas{
+    color: #5851DB;
+}
+
+.card ,nav, .footer,tr,video{
+    opacity: 1;
+    background-color:  #ffcccc;
+    border-radius: 3px;
+    transition: all 200ms ease-out;
+    box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.2);
+}
+
+tr,th,td{
+    border:0.1px solid silver;
+    text-align: center;
+}
+
+.nav-item{
+margin-left: 10px; 
+}
+
+.navbar-brand{
+    text-shadow: 1px 1px 2px red, 0 0 50px black, 0 0 5px white;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 1.7em;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.brand{
+    text-shadow: 1px 1px 2px red, 0 0 50px black, 0 0 5px white;
+}
+
+.rounded-circle{
+    margin-top: -2.5px;
+}
+
+.card-header{
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+.dark-mode {
+  background-color: black;
+  color: black;
+}
+
+form{
+    padding-top: 20px;
+}
+
+a:link{
+    text-decoration: none;https://wallpapercave.com/wp/wp4323509.jpg
+}
+
+.footer{
+    opacity: 1;
+    padding: 14px;
+}
+
+.alert{
+    border:1px solid #5cb85c;
+    border-left: 5px solid #5cb85c;
+    border-right: 5px solid #5cb85c;
+}
+
+.error{
+    border:1px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
